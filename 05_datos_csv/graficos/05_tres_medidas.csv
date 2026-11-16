@@ -1,0 +1,4 @@
+﻿indicador,variacion_pct,periodo,concepto,fuente,usado_por
+Renta disponible real de los hogares,8.4,1T2022-4T2025,real,OCDE vía Newtral,Cuerpo
+Salario mediano neto real,-3.4,2018-2024,"real, neto de IRPF",cálculo del PP sobre AEAT e INE (El Español),PP
+Salario modal bruto,-10.6,2018-2024,nominal,"INE EES vía Newtral (18.468,93 → 16.520,18 €)",Figaredo

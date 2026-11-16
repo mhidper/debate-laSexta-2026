@@ -1,0 +1,9 @@
+﻿fuente,candidato,correcta,necesita_contexto,sin_corroborar_o_no_comparable,falsa
+Newtral,Carlos Cuerpo (PSOE),2,1,0,0
+Newtral,Juan Bravo (PP),3,4,1,0
+Newtral,José María Figaredo (Vox),3,4,1,1
+Newtral,Pablo Bustinduy (Frente Amplio),2,2,1,0
+Comprobación propia,Carlos Cuerpo (PSOE),2,0,0,0
+Comprobación propia,Juan Bravo (PP),1,2,2,0
+Comprobación propia,José María Figaredo (Vox),0,1,0,0
+Comprobación propia,Pablo Bustinduy (Frente Amplio),0,1,1,0
