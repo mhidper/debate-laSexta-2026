@@ -1,5 +1,7 @@
 # Análisis del primer debate a cuatro de laSexta (13 de noviembre de 2026)
 
+**Nota metodológica (PDF):** [02_informe/nota_metodologica_debate_laSexta.pdf](02_informe/nota_metodologica_debate_laSexta.pdf) · **Informe completo:** [02_informe/informe_datos_y_promesas_debate_laSexta.md](02_informe/informe_datos_y_promesas_debate_laSexta.md)
+
 Cuerpo (PSOE), Bravo (PP), Figaredo (Vox) y Bustinduy (Frente Amplio), moderados por Ana Pastor. Material elaborado el 15 de noviembre de 2026 y revisado el 16 de noviembre (ver «Revisión metodológica» al final).
 
 ## Contenido
