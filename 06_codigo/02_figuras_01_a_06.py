@@ -63,12 +63,12 @@ fig.savefig("01_tiempo_y_cifras.png", facecolor=BG); plt.close(fig)
 # 2. Verificaciones -----------------------------------------------------------
 cats = ["Correcta", "Necesita contexto", "Sin corroborar o no comparable", "Falsa"]
 cols = [GOOD, WARN, NEUTRAL, CRIT]
-newtral = {"Cuerpo": [2, 1, 0, 0], "Bravo": [3, 4, 1, 0], "Figaredo": [3, 4, 1, 1], "Bustinduy": [2, 2, 1, 0]}
+newtral = {"Cuerpo": [2, 1, 0, 0], "Bravo": [4, 4, 0, 0], "Figaredo": [3, 4, 1, 1], "Bustinduy": [2, 2, 1, 0]}
 propia = {"Cuerpo": [2, 0, 0, 0], "Bravo": [1, 2, 2, 0], "Figaredo": [0, 1, 0, 0], "Bustinduy": [0, 1, 1, 0]}
 fig = lienzo("Pocos datos falsos, muchos datos sin contexto",
              "Afirmaciones verificadas por candidato y valoración (número de afirmaciones)",
-             "Fuente: verificación en directo de Newtral (13-11-2026) y comprobación propia con fuentes públicas enlazadas en el hilo. "
-             "Las valoraciones agrupan las explicaciones de Newtral en cuatro categorías.\n"
+             "Fuente: verificación en directo de Newtral (13-11-2026) y comprobación propia con fuentes públicas. Las valoraciones agrupan las explicaciones de Newtral en cuatro categorías.\n"
+             "Corrección (16-11): el dato del CIS de Bravo (clase baja/pobre, 3 % en 2019 y 20,6 % hoy) se clasifica como correcto, a diferencia de Newtral: la pregunta es la misma.\n"
              "Newtral elige qué verifica: los recuentos no son una muestra aleatoria y no permiten ordenar a los candidatos por fiabilidad.", h=9.6)
 for i, (d, ttl) in enumerate([(newtral, "Verificadas por Newtral (25)"), (propia, "Sin verificar por Newtral: comprobación propia (10)")]):
     ax = fig.add_axes([0.17 + i * 0.43, 0.17, 0.34, 0.5]); limpio(ax)

@@ -6,7 +6,7 @@
 
 Ninguno de los cuatro mintió de forma burda, pero todos eligieron la métrica que más les convenía, y solo el PSOE y Frente Amplio acompañaron sus propuestas de cifras, plazos o fuentes de financiación con cierta regularidad. El debate de laSexta del 13 de noviembre de 2026 enfrentó a Carlos Cuerpo (PSOE), Juan Bravo (PP), José María Figaredo (Vox) y Pablo Bustinduy (Frente Amplio), moderados por Ana Pastor.
 
-- **Datos.** De las unas 25 afirmaciones que verificó Newtral, solo una es falsa sin matices: que España sea el país de la UE donde más ha subido la presión fiscal (Figaredo). El error habitual es otro: cifras absolutas en lugar de ratios sobre el PIB, nominales en lugar de reales, series con cambio de metodología o flujos de entrada sin restar las salidas.
+- **Datos.** De las unas 25 afirmaciones que verificó Newtral, solo una es falsa sin matices: que España sea el país de la UE donde más ha subido la presión fiscal (Figaredo). El error habitual es otro: cifras absolutas en lugar de ratios sobre el PIB, nominales en lugar de reales o flujos de entrada sin restar las salidas.
 - **Cifras sin verificar.** Este análisis comprueba diez afirmaciones más que Newtral dejó fuera. Las más débiles son las 400.000 viviendas que la okupación habría sacado del alquiler (Bravo, sin fuente localizada) y los «casi 4.000 euros más de impuestos» por persona (Bravo, una cifra nominal que mezcla crecimiento, inflación y cotizaciones).
 - **Concreción.** En una escala de 0 a 4 (instrumento, cuantía, plazo y financiación), las propuestas del PSOE promedian 2,6, las de Frente Amplio 2,2, las del PP 1,7 y las de Vox 1,0. Que casi todo lo que defiende el PSOE esté ya en vigor no explica su ventaja: sus cinco medidas en el BOE promedian 2,6 y las dos nuevas, 2,5. En el PP, las metas de resultado puntúan más (2,0) que sus instrumentos (1,6), porque el índice premia dar cifras y no mide la viabilidad.
 - **Cuadre fiscal.** Ningún partido explica cómo encajan sus promesas con el aviso de la AIReF de que España necesitará medidas de ajuste desde 2027. El PP promete bajar el IRPF y 300.000 millones en infraestructuras sin cuantificar la financiación, y Frente Amplio propone impuestos que, si funcionan como disuasorios, recaudarían poco. Varias promesas chocan además con la falta de mano de obra en la construcción o con competencias de las comunidades autónomas y de la UE.
@@ -34,7 +34,7 @@ El recuento sale de la transcripción reconstruida del debate. Las «cifras cita
 
 ## Fiabilidad de los datos según Newtral
 
-De las 25 afirmaciones de los candidatos que Newtral comprobó en directo, 10 son correctas, 11 necesitan contexto o están infladas, 3 no se pueden corroborar o comparar y una es falsa. Por candidato, Cuerpo es el que sale mejor parado y Figaredo el único con un dato falso sin matices. La valoración en cuatro categorías es de este análisis, a partir de lo que explica Newtral en cada caso ([verificación en directo de Newtral](https://www.newtral.es/), 13 de noviembre de 2026).
+De las 25 afirmaciones de los candidatos que Newtral comprobó en directo, 11 son correctas, 11 necesitan contexto o están infladas, 2 no se pueden corroborar o comparar y una es falsa. Por candidato, Cuerpo es el que sale mejor parado y Figaredo el único con un dato falso sin matices. La valoración en cuatro categorías es de este análisis, a partir de lo que explica Newtral en cada caso ([verificación en directo de Newtral](https://www.newtral.es/), 13 de noviembre de 2026).
 
 | Candidato | Afirmación | Qué dicen los datos | Valoración |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ De las 25 afirmaciones de los candidatos que Newtral comprobó en directo, 10 so
 | Bravo | El PP nunca congeló las pensiones | No las congeló, pero Rajoy las subió un 0,25 % varios años, por debajo de la inflación | Necesita contexto |
 | Bravo | El PP vota a favor de revalorizar con el IPC | Votó contra la Ley 21/2021, que lo garantiza, y contra varios decretos que lo incluían | Necesita contexto |
 | Bravo | La ayuda de 100 € a madres trabajadoras sigue igual desde 2003 | Omite el complemento de guardería de hasta 1.000 € al año desde 2018 | Necesita contexto |
-| Bravo | Cada vez más gente se declara de clase baja (CIS) | La pregunta cambió en 2019 y las series no son comparables | No comparable |
+| Bravo | Cada vez más gente se declara de clase baja (CIS) | Desde junio de 2019 la pregunta es la misma (respuesta espontánea) y el CIS ya agrupaba «clase baja/pobre»: 3,0 % en diciembre de 2019 (estudio 3269) y 20,6 % en octubre de 2026 (estudio 3582). Casi todo el aumento está en «clase baja» (0,5 % a 16,8 %). Es identificación subjetiva, no pobreza medida | Correcta (con matices; corregido el 16-11, a diferencia de Newtral) |
 | Figaredo | El salario más frecuente ha caído | Salario modal: 18.469 € (2018) frente a 16.520 € (2024) | Correcta |
 | Figaredo | Zapatero congeló las pensiones con el voto de Sánchez | RDL 8/2010, salvo mínimas y no contributivas | Correcta |
 | Figaredo | La recaudación está en máximos históricos | De 208.685 M€ (2018) a 325.356 M€ (2025), un 56 % más | Correcta |
@@ -64,7 +64,7 @@ De las 25 afirmaciones de los candidatos que Newtral comprobó en directo, 10 so
 | Cuerpo | 1,9 millones de hogares se benefician de la prórroga | Coincide con el cálculo de Oxfam Intermón | Correcta |
 | Cuerpo | El gasto en mantenimiento ferroviario ha crecido mucho | +95 % en bruto en la última década, +48 % descontando inflación y +16 % por kilómetro de vía | Necesita contexto |
 
-El patrón es más interesante que el recuento. Casi ningún error es una invención. Son decisiones de medida: Figaredo usa la deuda en euros y no sobre el PIB, Bravo compara una pregunta del CIS que cambió de formulación, Cuerpo da el gasto en mantenimiento en euros corrientes y Bustinduy redondea siempre hacia el lado que le conviene. Newtral, además, dio la razón a Cuerpo en dos réplicas directas a Bravo: el voto del PP sobre la revalorización y el cambio de metodología del CIS.
+El patrón es más interesante que el recuento. Casi ningún error es una invención. Son decisiones de medida: Figaredo usa la deuda en euros y no sobre el PIB, Cuerpo da el gasto en mantenimiento en euros corrientes y Bustinduy redondea siempre hacia el lado que le conviene. Newtral dio la razón a Cuerpo en dos réplicas directas a Bravo: el voto del PP sobre la revalorización y el cambio de metodología del CIS. En lo segundo, este análisis discrepa tras una comprobación posterior. La formulación cambió en junio de 2019, y la comparación de Bravo arranca después, en diciembre de 2019, con la misma pregunta y la misma agrupación de «clase baja» y «pobre». Tampoco es cierto, como dijo Cuerpo, que las dos categorías se empezaran a sumar hacia 2022. Queda una cautela: el salto se concentra en la etiqueta «clase baja», y conviene comprobar si coincide con el paso de los barómetros del CIS a la entrevista telefónica en 2020.
 
 ## Cifras que Newtral no verificó
 
@@ -353,6 +353,7 @@ Repetir no es necesariamente un defecto: en un debate electoral suele ser una fo
 - **Índice de concreción.** Un punto por cada elemento (instrumento, cuantía, plazo, financiación) que el candidato mencionó en el debate para cada medida. No evalúa si la medida es buena ni lo que digan los programas electorales.
 - **Revisión metodológica (16 de noviembre de 2026).** Se unificó el criterio de palabras en todas las secciones (palabras y números, sin puntuación ni marcas de transcripción), lo que cambia ligeramente las densidades de cifras y los índices de diversidad léxica sin alterar su orden. Se deduplicó el recuento de incivilidad, se añadió la naturaleza de cada medida al índice de concreción, se normalizó el balance de evidencia en porcentajes y se añadió la tabla de viabilidad y coherencia interna.
 - **Herramientas de inteligencia artificial.** Buena parte del análisis se ha apoyado en Claude Code (Anthropic) y Gemini (Google): reconstrucción y atribución de la transcripción, programación de los recuentos, los índices y los gráficos, búsqueda y contraste de fuentes y borradores de los textos. Los criterios de clasificación, las valoraciones y la revisión final son responsabilidad del autor.
+- **Corrección sobre el CIS (16 de noviembre de 2026).** La afirmación de Bravo sobre quienes se identifican como clase baja o pobre se había clasificado como «no comparable», siguiendo a Newtral. Tras el aviso de Fernando Sols, la comprobación de los estudios 3269 (diciembre de 2019) y 3582 (octubre de 2026) muestra la misma pregunta y la misma agrupación en ambos: 3,0 % y 20,6 %. Pasa a «correcta, con matices». El recuento de Newtral queda en 11 correctas, 11 que necesitan contexto, 2 sin corroborar y 1 falsa.
 
 ### Fuentes principales
 

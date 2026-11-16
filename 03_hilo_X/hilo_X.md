@@ -6,11 +6,11 @@ Los números entre corchetes indican qué imagen de 04_graficos acompaña cada t
 
 2/ Primero, el tiempo. Se repartió de forma bastante pareja (entre el 21,5 % de Figaredo y el 27,3 % de Bravo). Donde sí hubo diferencias es en las cifras: Bravo y Bustinduy citaron unas 9-10 por cada 1.000 palabras, Cuerpo y Figaredo unas 6-7. [01]
 
-3/ Más cifras no significa más rigor, claro. Newtral verificó 25 afirmaciones de los candidatos: 10 correctas, 11 que necesitan contexto, 3 sin corroborar y 1 falsa (que España sea el país de la UE donde más ha subido la presión fiscal, cuando es el tercero). [02]
+3/ Más cifras no significa más rigor, claro. Newtral verificó 25 afirmaciones de los candidatos: 11 correctas, 11 que necesitan contexto, 2 sin corroborar y 1 falsa (que España sea el país de la UE donde más ha subido la presión fiscal, cuando es el tercero). [02]
 
 4/ Un aviso importante. Newtral elige qué verifica, así que estos recuentos no son una muestra aleatoria y no sirven para ordenar a los candidatos por fiabilidad. Sirven para otra cosa: ver qué tipo de error se comete.
 
-5/ Y el error típico no es inventar. Es elegir la medida. Deuda en euros y no sobre el PIB. Gasto en euros corrientes y no reales. Llegadas de inmigrantes sin restar salidas. Una pregunta del CIS que cambió de formulación en 2019. Ninguno se libra.
+5/ Y el error típico no es inventar. Es elegir la medida. Deuda en euros y no sobre el PIB. Gasto en euros corrientes y no reales. Llegadas de inmigrantes sin restar salidas. Ayudas sin contar sus complementos. Ninguno se libra.
 
 6/ He comprobado 10 cifras que Newtral no verificó. Tres no tienen fuente localizable: las 400.000 viviendas que la okupación habría sacado del alquiler y el +41 % de roturas de carril (Bravo), y las 1,3 millones de viviendas del impuesto de Frente Amplio (Bustinduy).
 
@@ -45,3 +45,9 @@ Los números entre corchetes indican qué imagen de 04_graficos acompaña cada t
 21/ ¿Y lo que no salió? Productividad (solo como palabra), inteligencia artificial (la moderadora la planteó y nadie la recogió), deuda como restricción y demografía más allá de las pensiones. Probablemente lo más importante de la próxima legislatura.
 
 22/ Fuentes: transcripción del debate, Newtral, INE, Seguridad Social, AIReF y Funcas. Tono con ML-SentiCon e incivilidad con Coe, Kenski y Rains (2014). Análisis apoyado en Claude Code y Gemini. Método completo: [enlace]. Si ven un error, lo corrijo.
+
+## Corrección publicada el 16 de noviembre (responder al hilo)
+
+Corrección, gracias a @fernandosols. El dato del CIS de Bravo era correcto: desde junio de 2019 la pregunta es la misma y ya se sumaban «clase baja» y «pobre» (3,0 % en dic. 2019, 20,6 % en oct. 2026). Lo di por no comparable, como Newtral, y no lo es.
+
+Recuento corregido: 11 correctas, 11 con contexto, 2 sin corroborar y 1 falsa. Un matiz: casi todo el salto está en «clase baja» (del 0,5 % al 16,8 %) y es percepción, no pobreza medida. Habría que ver si coincide con el paso del CIS a la encuesta telefónica en 2020.
