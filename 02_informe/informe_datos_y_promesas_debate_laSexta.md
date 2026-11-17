@@ -141,7 +141,7 @@ La propuesta de Frente Amplio tiene una tensión interna que nadie le señaló. 
 
 ### Viabilidad y coherencia interna
 
-El cuadre fiscal no es la única restricción. Hay otras tres que no salieron en el debate y que afectan a varias promesas: la capacidad física de producir lo prometido, la lógica de los impuestos disuasorios y el reparto de competencias.
+El cuadre fiscal no es la única restricción. Hay otras tres que apenas se discutieron y que afectan a varias promesas: la capacidad física de producir lo prometido, la lógica de los impuestos disuasorios y el reparto de competencias.
 
 | Restricción | Promesas afectadas | Qué dicen los datos o las normas | Consecuencia |
 | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ El cuadre fiscal no es la única restricción. Hay otras tres que no salieron en
 | Fricción competencial (tributos cedidos y locales) | PP: rebaja del ITP. Frente Amplio: impuesto del 10 % desde la cuarta vivienda | El ITP es un impuesto cedido y las comunidades fijan sus tipos (Ley 22/2009). Un impuesto estatal sobre la vivienda se solaparía con los impuestos autonómicos sobre vivienda vacía y el recargo municipal del IBI, y la LOFCA obliga a compensar a las comunidades si les resta ingresos (art. 6.2) | Una rebaja del ITP prometida desde el Estado solo es posible con el acuerdo de las comunidades o cambiando la financiación autonómica. El impuesto del 10 % podría exigir compensaciones |
 | Fricción con el derecho de la UE | Vox: recargo fiscal a compradores y capital extranjero. PP: franquicia de IVA para autónomos | La libre circulación de capitales (art. 63 TFUE) impide discriminar por residencia a inversores de otros países de la UE. En cambio, la Directiva (UE) 2020/285 permite desde 2025 una franquicia de IVA de hasta 85.000 € | El recargo de Vox solo sería viable, con riesgo de litigio, para compradores de fuera de la UE. La franquicia del PP es compatible con la norma europea |
 
-Las tres restricciones no hacen inviable ninguna propuesta por sí solas, pero sí cambian su escala y sus plazos. La más exigente es la física: el sector de la construcción ya trabaja cerca de su límite, y prometer más vivienda y más obra pública a la vez sin hablar de trabajadores deja la promesa en el aire. Parte de los 20.000 M€ anuales del PP podría proceder de comunidades y empresas, como dijo Bravo, lo que reduciría la presión sobre el presupuesto pero no sobre la capacidad del sector.
+Las tres restricciones no hacen inviable ninguna propuesta por sí solas, pero sí cambian su escala y sus plazos. La más exigente es la física: el sector de la construcción ya trabaja cerca de su límite, y prometer más vivienda y más obra pública a la vez sin decir con qué trabajadores deja la promesa en el aire. Es la única de las tres que asomó en el debate: Cuerpo preguntó a Bravo y a Figaredo cómo cubrirían la falta de mano de obra, y Figaredo respondió que en España ya hay trabajadores suficientes. Nadie dio cifras ni la relacionó con el plan de infraestructuras. Parte de los 20.000 M€ anuales del PP podría proceder de comunidades y empresas, como dijo Bravo, lo que reduciría la presión sobre el presupuesto pero no sobre la capacidad del sector.
 
 ## Diagnósticos frente a la evidencia
 
@@ -354,6 +354,7 @@ Repetir no es necesariamente un defecto: en un debate electoral suele ser una fo
 - **Revisión metodológica (16 de noviembre de 2026).** Se unificó el criterio de palabras en todas las secciones (palabras y números, sin puntuación ni marcas de transcripción), lo que cambia ligeramente las densidades de cifras y los índices de diversidad léxica sin alterar su orden. Se deduplicó el recuento de incivilidad, se añadió la naturaleza de cada medida al índice de concreción, se normalizó el balance de evidencia en porcentajes y se añadió la tabla de viabilidad y coherencia interna.
 - **Herramientas de inteligencia artificial.** Buena parte del análisis se ha apoyado en Claude Code (Anthropic) y Gemini (Google): reconstrucción y atribución de la transcripción, programación de los recuentos, los índices y los gráficos, búsqueda y contraste de fuentes y borradores de los textos. Los criterios de clasificación, las valoraciones y la revisión final son responsabilidad del autor.
 - **Corrección sobre el CIS (16 de noviembre de 2026).** La afirmación de Bravo sobre quienes se identifican como clase baja o pobre se había clasificado como «no comparable», siguiendo a Newtral. Tras el aviso de Fernando Sols, la comprobación de los estudios 3269 (diciembre de 2019) y 3582 (octubre de 2026) muestra la misma pregunta y la misma agrupación en ambos: 3,0 % y 20,6 %. Pasa a «correcta, con matices». El recuento de Newtral queda en 11 correctas, 11 que necesitan contexto, 2 sin corroborar y 1 falsa.
+- **Corrección sobre la mano de obra (17 de noviembre de 2026).** La versión anterior decía que las tres restricciones de viabilidad no salieron en el debate. La falta de mano de obra en la construcción sí se mencionó: la planteó Cuerpo y la contestó Figaredo, sin cifras. El texto se ha ajustado.
 
 ### Fuentes principales
 

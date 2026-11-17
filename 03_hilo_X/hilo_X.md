@@ -22,7 +22,7 @@ Los números entre corchetes indican qué imagen de 04_graficos acompaña cada t
 
 10/ Lo que nadie hizo: encajar sus promesas en la restricción que marca la AIReF, que da por necesario un ajuste a partir de 2027. Bajar impuestos, gastar más o crear tributos sin recaudación estimada. La palabra «déficit» salió dos veces en todo el debate.
 
-11/ Tampoco salieron los límites físicos. Un millón de viviendas en una legislatura exige unas 250.000 al año cuando en 2025 se terminaron unas 92.000, y la construcción ya echa en falta unos 700.000 trabajadores (CNC). Y vivienda y suelo son competencia autonómica.
+11/ Los límites físicos apenas se discutieron. Cuerpo preguntó por la mano de obra y nadie dio cifras. Un millón de viviendas en una legislatura exige unas 250.000 al año: en 2025 se terminaron unas 92.000 y la construcción echa en falta 700.000 trabajadores (CNC).
 
 12/ Tercero, a quién se habla. En realidad hubo dos debates: PSOE contra PP y Frente Amplio contra Vox. Bravo no nombró a Vox ni a Figaredo en toda la noche, y Figaredo nombró al PP una sola vez. [04]
 
@@ -51,3 +51,5 @@ Los números entre corchetes indican qué imagen de 04_graficos acompaña cada t
 Corrección, gracias a @fernandosols. El dato del CIS de Bravo era correcto: desde junio de 2019 la pregunta es la misma y ya se sumaban «clase baja» y «pobre» (3,0 % en dic. 2019, 20,6 % en oct. 2026). Lo di por no comparable, como Newtral, y no lo es.
 
 Recuento corregido: 11 correctas, 11 con contexto, 2 sin corroborar y 1 falsa. Un matiz: casi todo el salto está en «clase baja» (del 0,5 % al 16,8 %) y es percepción, no pobreza medida. Habría que ver si coincide con el paso del CIS a la encuesta telefónica en 2020.
+
+Corrección (17-11). En el tuit 11 dije que los límites físicos no salieron en el debate. No es exacto: Cuerpo preguntó a Bravo y a Figaredo por la falta de mano de obra, y Figaredo contestó que ya hay trabajadores suficientes. Faltaron las cifras. Corregido en el informe.
